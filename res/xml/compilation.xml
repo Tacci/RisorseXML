@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<compilation>
+    <brano id="1">
+        <titolo>Stairway to heaven</titolo>
+        <autore>Led Zeppelin</autore>
+        <genere>Rock</genere>
+    </brano>
+    <brano id="2">
+        <titolo>Crazy</titolo>
+        <autore>Aerosmith</autore>
+        <genere>Rock</genere>
+    </brano>
+    <brano id="3">
+        <titolo>Twist and shout</titolo>
+        <autore>The Beatles</autore>
+        <genere>Rock</genere>
+    </brano>
+    <brano id="4">
+        <titolo>I can't get enought</titolo>
+        <autore>Rolling Stones</autore>
+        <genere>Rock</genere>
+    </brano>
+</compilation>
